@@ -1,4 +1,4 @@
-Building my first project "recipies"
+Building my first project "recipes"
 
 This project is a basic recipe website that aims to apply basic HTML knowledge.
 It has a main page and links to other web pages.
