@@ -1,0 +1,25 @@
+body {
+    background-color: blanchedalmond;
+    font-size: 18px;
+
+}
+
+h1 { 
+    color: rgb(153, 107, 39);
+    text-align: center;
+    text-decoration: underline;
+}
+
+.intro, .list {
+    color: brown;
+    font-size: 24px;
+}
+
+p, br,.intro {
+    text-align: center;
+}
+
+.first, .second {
+    background-color: lightblue;
+    display: inline-block;
+}
