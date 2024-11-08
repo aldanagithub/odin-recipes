@@ -1,0 +1,30 @@
+body {
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgba(73, 95, 14, 0.788);
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+
+}
+
+/* some links rules */
+
+ul, a {
+    color: brown;
+    font-weight: bolder;
+}
+
+a:hover {
+    background-color: wheat;
+    color: black;
+}
+
+a:active {
+    color: blue;
+}
+
+/* some links rules */
