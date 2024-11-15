@@ -19,7 +19,7 @@ p, br,.intro {
     text-align: center;
 }
 
-.first, .second {
+.first,.second {
     background-color: lightblue;
-    display: inline-block;
+    font-style: italic;
 }
